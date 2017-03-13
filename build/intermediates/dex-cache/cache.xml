@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\user\Desktop\PinterestLikeAdapterView-master1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_dee9b3a6e61ad440b431b095a44aad7011189556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\PinterestLikeAdapterView-master1\app\libs\jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="C:\Users\user\Desktop\PinterestLikeAdapterView-master1\app\build\intermediates\pre-dexed\debug\jsoup-1.10.2_03ab740b5f41454e6f17504b88577c1fae9e69ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\Jsoup\app\libs\jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="C:\Users\user\Desktop\Jsoup\app\build\intermediates\pre-dexed\debug\jsoup-1.10.2_eacd8e86ab742b57528266c688c8edd9d4f22707.jar" />
+    </item>
+
+</items>

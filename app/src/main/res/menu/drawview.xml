@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff"
+    >
+    <group android:checkableBehavior="single"
+        android:background="#fff"
+        >
+
+        <item
+            android:title="加载本地网页"
+            android:id="@+id/load_local_html"
+            android:checkable="true"
+            android:checked="true"
+            android:icon="@android:drawable/ic_menu_gallery"
+            />
+
+
+    </group>
+
+
+    <!--<item
+        android:title="赞助我们"
+        android:id="@+id/listen"
+        android:checkable="true"
+        android:icon="@drawable/ic_headset"
+        />
+
+    <item
+        android:title="图片"
+        android:id="@+id/images"
+        android:checkable="true"
+        />-->
+
+   <!-- <item android:title="分类">
+        <menu>
+            <item
+                android:title="视频"
+                android:id="@+id/video"
+                android:checkable="true"
+                />
+            <item
+                android:title="设置"
+                android:id="@+id/setting"
+                android:checkable="true"
+                />
+        </menu>
+
+    </item>-->
+
+</menu>

@@ -1,0 +1,958 @@
+[
+    {
+        "outputFile": "C:\\Users\\user\\Desktop\\Jsoup\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\pla__attrs.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 55,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 51,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\pla__attrs.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endColumn": 52,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 9126,
+                    "endColumn": 57,
+                    "endOffset": 9179
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 9184,
+                    "endColumn": 55,
+                    "endOffset": 9235
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 9240,
+                    "endColumn": 42,
+                    "endOffset": 9278
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 31,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 9283,
+                    "endColumn": 42,
+                    "endOffset": 9321
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 9326,
+                    "endColumn": 58,
+                    "endOffset": 9380
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 58,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 9385,
+                    "endColumn": 63,
+                    "endOffset": 9444
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 63,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 9449,
+                    "endColumn": 53,
+                    "endOffset": 9498
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 53,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 9503,
+                    "endColumn": 69,
+                    "endOffset": 9568
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 69,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 9573,
+                    "endColumn": 61,
+                    "endOffset": 9630
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 61,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 9635,
+                    "endColumn": 62,
+                    "endOffset": 9693
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 62,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 9698,
+                    "endColumn": 65,
+                    "endOffset": 9759
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 479,
+                        "endColumn": 65,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 9764,
+                    "endColumn": 61,
+                    "endOffset": 9821
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 61,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 9826,
+                    "endColumn": 62,
+                    "endOffset": 9884
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 62,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 9889,
+                    "endColumn": 62,
+                    "endOffset": 9947
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endColumn": 62,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 9952,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 10072
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 10077,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 10423
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 10428,
+                    "endLine": 204,
+                    "endColumn": 12,
+                    "endOffset": 10699
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 10704,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 10918
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 10923,
+                    "endLine": 216,
+                    "endColumn": 12,
+                    "endOffset": 11293
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2146,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 11298,
+                    "endLine": 223,
+                    "endColumn": 12,
+                    "endOffset": 11688
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 11693,
+                    "endLine": 232,
+                    "endColumn": 12,
+                    "endOffset": 12161
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1668,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 2136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 12166,
+                    "endLine": 239,
+                    "endColumn": 12,
+                    "endOffset": 12516
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\Jsoup\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1312,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1662
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\pla__attrs.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 55,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 51,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\pla__attrs.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endColumn": 52,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 9126,
+                    "endColumn": 57,
+                    "endOffset": 9179
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 9184,
+                    "endColumn": 55,
+                    "endOffset": 9235
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 9240,
+                    "endColumn": 42,
+                    "endOffset": 9278
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 31,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 9283,
+                    "endColumn": 42,
+                    "endOffset": 9321
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 9326,
+                    "endColumn": 58,
+                    "endOffset": 9380
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 58,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 9385,
+                    "endColumn": 63,
+                    "endOffset": 9444
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 63,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 9449,
+                    "endColumn": 53,
+                    "endOffset": 9498
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 53,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 9503,
+                    "endColumn": 69,
+                    "endOffset": 9568
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 69,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 9573,
+                    "endColumn": 61,
+                    "endOffset": 9630
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 610,
+                        "endColumn": 61,
+                        "endOffset": 667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 9635,
+                    "endColumn": 62,
+                    "endOffset": 9693
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 673,
+                        "endColumn": 62,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 9698,
+                    "endColumn": 65,
+                    "endOffset": 9759
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 479,
+                        "endColumn": 65,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 9764,
+                    "endColumn": 61,
+                    "endOffset": 9821
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 61,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 9826,
+                    "endColumn": 62,
+                    "endOffset": 9884
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 415,
+                        "endColumn": 62,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 9889,
+                    "endColumn": 62,
+                    "endOffset": 9947
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endColumn": 62,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 9952,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 10072
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 10077,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 10423
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 10428,
+                    "endLine": 204,
+                    "endColumn": 12,
+                    "endOffset": 10699
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 10704,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 10918
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 10923,
+                    "endLine": 216,
+                    "endColumn": 12,
+                    "endOffset": 11293
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2146,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 11298,
+                    "endLine": 223,
+                    "endColumn": 12,
+                    "endOffset": 11688
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 11693,
+                    "endLine": 232,
+                    "endColumn": 12,
+                    "endOffset": 12161
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1668,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 2136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 12166,
+                    "endLine": 239,
+                    "endColumn": 12,
+                    "endOffset": 12516
+                },
+                "from": {
+                    "file": "C:\\Users\\user\\Desktop\\PinterestLikeAdapterView-master1\\app\\src\\main\\res\\values\\ptr_default_style.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1312,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 1662
+                    }
+                }
+            }
+        ]
+    }
+]
